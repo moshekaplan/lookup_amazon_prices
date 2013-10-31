@@ -3,7 +3,11 @@
 """This script demonstrates how the amazonproduct API can be used to look up
 the price of an item.
 
+The amazon product API is available from here:
+
+https://bitbucket.org/basti/python-amazon-product-api/
 """
+
 import time
 
 import amazonproduct
